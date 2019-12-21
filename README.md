@@ -13,4 +13,11 @@ Descriptive_Statistics.ipynb has the code to find the descriptive statistics bel
 In order to run the ipynb file, use Anaconda and a jyupter notebook. Running the cells in the file generates excel sheets for the above statistics in the current directory. 
 
 TODO:
-  
+
+
+
+  ![alt text](https://github.com/aravindreddyravula/Adolescent-Depression/blob/master/DK.jpeg)
+
+
+
+The other work which has to be done here are imputation of the missing values and the downstream work CCA, Prediction tasks and other analysis.
